@@ -1,4 +1,5 @@
 {
   "name": "evodoc-license-all-rights-reserved",
-  "tags": ["license", "licence", "all", "rights", "reserved"]
+  "description": "License text: All rights reserved",
+  "tags": ["license", "licence", "all", "rights", "reserved", "text"]
 }
